@@ -2,6 +2,11 @@
 
 This repository has been created for the development of an android application (CovCT) for analyzing COVID and non-COVID data. 
 
+
+Brief Demo - 
+
+Video demo link- 
+
 ## Data
 Data is available at the below links. You may need to register before downloading the data.
 
