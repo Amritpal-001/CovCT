@@ -4,7 +4,7 @@ This repository has been created for the development of an android application (
 
 
 Brief Demo - 
-!(abchs)[Proposal.jpg]
+![COV_CT](Proposal.jpg)
 
 Video demo link- 
 
